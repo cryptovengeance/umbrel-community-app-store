@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: ord-store-ord
+id: ord-app-store-ord
 category: bitcoin
 name: Ordinals
 version: "0.16.0"
@@ -25,8 +25,8 @@ dependencies:
 repo: https://github.com/casey/ord
 support: https://discord.gg/ordinals
 gallery:
-  - https://raw.githubusercontent.com/cryptovengeance/umbrel-community-app-store/master/ord-store-ord/1.jpg
-  - https://raw.githubusercontent.com/cryptovengeance/umbrel-community-app-store/master/ord-store-ord/2.jpg
+  - https://raw.githubusercontent.com/cryptovengeance/umbrel-community-app-store/master/ord-app-store-ord/1.jpg
+  - https://raw.githubusercontent.com/cryptovengeance/umbrel-community-app-store/master/ord-app-store-ord/2.jpg
 port: 4000
 path: ""
 deterministicPassword: false
