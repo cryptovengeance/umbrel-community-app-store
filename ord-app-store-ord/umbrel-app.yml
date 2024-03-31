@@ -4,7 +4,7 @@ category: bitcoin
 name: Ordinals
 version: "0.16.0"
 tagline: Trustlessly view Ordinal inscriptions using your Bitcoin node.
-icon: https://raw.githubusercontent.com/cryptovengeance/umbrel-community-app-store/master/ord-store.png
+icon: https://raw.githubusercontent.com/cryptovengeance/umbrel-community-app-store/master/ord-app-store.png
 description: >
   A block explorer to trustlessly view Ordinal inscriptions. Search blocks, transactions, outputs, and individual satoshis.
 
